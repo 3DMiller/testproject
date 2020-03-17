@@ -1,3 +1,5 @@
 # testproject
 
- This is a test project, to familiarize with Git.
+ Spencer Miller's Masters project
+
+ This project focuses on how individual coral colonies contribute to three-dimensional structure in shallow reef habitats.
