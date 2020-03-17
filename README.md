@@ -1,2 +1,3 @@
 # testproject
- test
+
+ This is a test project, to familiarize with Git.
